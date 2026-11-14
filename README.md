@@ -1,4 +1,4 @@
-# PT Solusi Net Nusantara
+# PT Solusi Net Nusantara<center>
 ### Company Profile Website
 
 Website company profile untuk **PT Solusi Nusantara**, dibangun menggunakan Laravel dengan Filament sebagai dashboard admin untuk mengelola konten website secara dinamis.
