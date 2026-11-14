@@ -1,4 +1,4 @@
-# PT Solusi Net Nusantara<center>
+# PT Solusi Net Nusantara
 ### Company Profile Website
 
 Website company profile untuk **PT Solusi Nusantara**, dibangun menggunakan Laravel dengan Filament sebagai dashboard admin untuk mengelola konten website secara dinamis.
@@ -24,7 +24,7 @@ Ikuti langkah berikut untuk menjalankan project pada lingkungan lokal.
 ### 1. Create Laravel Project
 
 ```bash
-composer create-project laravel/laravel solusi-koneksi-anda
+composer create-project laravel/laravel pt-solusi-net-nusantara
 
 cd solusi-koneksi-anda
 ```
