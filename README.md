@@ -226,6 +226,6 @@ pt-solusi-net-nusantara/
 ---
 
 <p align="center">
-  <strong>PT Solusi Nusantara</strong><br>
+  <strong>PT Solusi Net Nusantara</strong><br>
   Company Profile Website
 </p>
